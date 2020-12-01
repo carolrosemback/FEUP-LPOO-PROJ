@@ -27,7 +27,6 @@ Projeto proposto na UC LPOO(Laboratório de programação orientado  a objetos),
   - Misseis - A nave deveria disparar misseis para matar os inimigos
 
 
-
 ## **Design**
 
 ### MVC
