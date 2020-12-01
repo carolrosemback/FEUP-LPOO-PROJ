@@ -115,7 +115,7 @@ A idéia principal do padrão de Estado é  permitir que o objeto altere seu com
 
 ## **Imagens do Jogo**:
   <img src="/docs/INITIAL.png" alt="Initial Image" height="200" width="300"/>
-  <img src="/docs/game.jpg" alt="Game Image"  height="200" width="300">
+  <img src="/docs/GAME.jpg" alt="Game Image"  height="200" width="300">
   <img src="/docs/game_final.jpeg" alt="Game Final Image"  height="200" width="300">
 
  
