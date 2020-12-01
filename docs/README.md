@@ -43,7 +43,7 @@ Há uma maior facilidade controlar o comportamento individual de cada elemento (
 Apesar de haver mais ficheiros, cada classe tem funções bem definidas, colaborando com a detecção de problemas.
 
 ##### UML do MVC pattern:
-<img src="/Docs/MVC.jpg" alt="MVC UML" height="400" width="800"/>
+<img src="/docs/MVC.jpg" alt="MVC UML" height="400" width="800"/>
  
 
 ### State
@@ -59,7 +59,7 @@ Ao longo do jogo a tela difere de forma grotesca, afim de eviar alteracoes nas c
 A idéia principal do padrão de Estado é  permitir que o objeto altere seu comportamento sem alterar sua classe. Além disso, ao implementá-lo, o código ficou mais limpo sem muitas instruções if / else.
 
  ##### UML do State pattern:
-  <img src="/Docs/StatePatternUML.jpg" alt="State Pattern UML" height="400" width="800"/>
+  <img src="/docs/StatePatternUML.jpg" alt="State Pattern UML" height="400" width="800"/>
 
 
 
@@ -68,24 +68,24 @@ A idéia principal do padrão de Estado é  permitir que o objeto altere seu com
 ##### UML das classes indivualmente
 
  - Abstract Model: 
- <img src="/Docs/AbstractModelUML.jpg" alt=" Abstract Model UML" height="200" width="300"/>
- - Begin: <img src="/Docs/BeginUML.jpg" alt="Begin UML" height="200" width="400"/>
- - Defender Context: <img src="/Docs/DefenderContextUML.jpg" alt="Defender Context UML" height="200" width="300"/>
- - Game Controller: <img src="/Docs/GameControllerUML.jpg" alt="Game Controller UML" height="200" width="300"/>
- - Game Model: <img src="/Docs/GameModelUML.jpg" alt="Game Model UML" height="200" width="300"/>
- - Game View: <img src="/Docs/GameViewUML.jpg" alt="Game View UML" height="200" width="400"/>
- - Invaders Controller: <img src="/Docs/InvadersControllerUML.jpg" alt="Invaders Controller UML" height="200" width="300"/>
- - Invaders Model: <img src="/Docs/InvadersModelUML.jpg" alt="Invaders Model UML" height="200" width="300"/>
- - Invaders View: <img src="/Docs/InvadersViewUML.jpg" alt="Invaders View UML" height="200" width="400"/>
- - IView:<img src="/Docs/IViewUML.jpg" alt="IView UML" height="200" width="300"/>
- - Over:<img src="/Docs/OverUML.jpg" alt="Over UML" height="300" width="400"/>
- - Position: <img src="/Docs/PositionUML.jpg" alt="Position UML" height="250" width="250"/>
- - Running: <img src="/Docs/Implements.jpg" alt="Running UML " height="200" width="400"/>
- - Spaceship Controller: <img src="/Docs/SpaceshipControllerUML.jpg" alt="Spaceship Controller UML" height="200" width="300"/>
- - Spaceship Model: <img src="/Docs/SpaceshipModelUML.jpg" alt="Spaceship Model UML" height="200" width="300"/>
- - Spaceship View:<img src="/Docs/SpaceshipViewUML.jpg" alt="Spaceship View UML" height="200" width="400"/>
- - State: <img src="/Docs/StateUML.jpg" alt="State UML" height="200" width="300"/>
- - Utils: <img src="/Docs/UtilsUML.jpg" alt="Utils UML" height="200" width="300"/>
+ <img src="/docs/AbstractModelUML.jpg" alt=" Abstract Model UML" height="200" width="300"/>
+ - Begin: <img src="/docs/BeginUML.jpg" alt="Begin UML" height="200" width="400"/>
+ - Defender Context: <img src="/docs/DefenderContextUML.jpg" alt="Defender Context UML" height="200" width="300"/>
+ - Game Controller: <img src="/docs/GameControllerUML.jpg" alt="Game Controller UML" height="200" width="300"/>
+ - Game Model: <img src="/docs/GameModelUML.jpg" alt="Game Model UML" height="200" width="300"/>
+ - Game View: <img src="/docs/GameViewUML.jpg" alt="Game View UML" height="200" width="400"/>
+ - Invaders Controller: <img src="/docs/InvadersControllerUML.jpg" alt="Invaders Controller UML" height="200" width="300"/>
+ - Invaders Model: <img src="/docs/InvadersModelUML.jpg" alt="Invaders Model UML" height="200" width="300"/>
+ - Invaders View: <img src="/docs/InvadersViewUML.jpg" alt="Invaders View UML" height="200" width="400"/>
+ - IView:<img src="/docs/IViewUML.jpg" alt="IView UML" height="200" width="300"/>
+ - Over:<img src="/docs/OverUML.jpg" alt="Over UML" height="300" width="400"/>
+ - Position: <img src="/docs/PositionUML.jpg" alt="Position UML" height="250" width="250"/>
+ - Running: <img src="/docs/Implements.jpg" alt="Running UML " height="200" width="400"/>
+ - Spaceship Controller: <img src="/docs/SpaceshipControllerUML.jpg" alt="Spaceship Controller UML" height="200" width="300"/>
+ - Spaceship Model: <img src="/docs/SpaceshipModelUML.jpg" alt="Spaceship Model UML" height="200" width="300"/>
+ - Spaceship View:<img src="/docs/SpaceshipViewUML.jpg" alt="Spaceship View UML" height="200" width="400"/>
+ - State: <img src="/docs/StateUML.jpg" alt="State UML" height="200" width="300"/>
+ - Utils: <img src="/docs/UtilsUML.jpg" alt="Utils UML" height="200" width="300"/>
  
 
 ## **Code Smells e Refactoring Suggestions** 
@@ -111,13 +111,13 @@ A idéia principal do padrão de Estado é  permitir que o objeto altere seu com
 
 
 ## **Teste:** 
-<img src="/Docs/TestCoverage.png" alt="Tests Coverage" height="300" width="350"/>
+<img src="/docs/TestCoverage.png" alt="Tests Coverage" height="300" width="350"/>
 
 
 ## **Imagens do Jogo**:
-  <img src="/Docs/INITIAL.png" alt="Initial Image" height="200" width="300"/>
-  <img src="/Docs/game.jpg" alt="Game Image"  height="200" width="300">
-  <img src="/Docs/game_final.jpeg" alt="Game Final Image"  height="200" width="300">
+  <img src="/docs/INITIAL.png" alt="Initial Image" height="200" width="300"/>
+  <img src="/docs/game.jpg" alt="Game Image"  height="200" width="300">
+  <img src="/docs/game_final.jpeg" alt="Game Final Image"  height="200" width="300">
 
  
 ## **Avaliação**:
